@@ -1,0 +1,20 @@
+{
+  "name": "fsweb-frontend-challenge",
+  "version": "1.0.0",
+  "description": "Tebrikler, Frontend konularını tamamladın. Backend konularına geçmeden, şimdiye kadar öğrendiğin her konuyu kullanarak, kişisel web sayfası yapacaksın. Yaptığın siteyi kendi profil sayfanda da yayınlayacaksın. Bu senin Frontend konusunda ne seviyede olduğunu gösterecek.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "cypress": "^13.16.0",
+    "react-toastify": "^10.0.6"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
